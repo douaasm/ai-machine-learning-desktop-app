@@ -4,24 +4,24 @@ Application desktop développée avec Python et Tkinter regroupant plusieurs mé
 
 ## Modules
 
-- Régression linéaire multiple
-- Clustering K-Means
-- Random Forest
-- Prévision de séries temporelles avec ARIMA
-- Réseau de neurones MLP
-- Validation croisée et comparaison de modèles
-- Interface globale avec import CSV
+* Régression linéaire multiple
+* Clustering K-Means
+* Random Forest
+* Prévision de séries temporelles avec ARIMA
+* Réseau de neurones MLP
+* Validation croisée et comparaison de modèles
+* Interface globale avec import CSV
 
 ## Technologies
 
-- Python
-- Tkinter
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- Statsmodels
-- Seaborn
+* Python
+* Tkinter
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* Statsmodels
+* Seaborn
 
 ## Installation
 
@@ -43,6 +43,36 @@ Pour ouvrir l'interface avec import CSV :
 python interface.py
 ```
 
+## Screenshots
+
+### Écran d’accueil
+
+![Écran d’accueil](screenshots/accueil.png)
+
+### Régression linéaire multiple
+
+![Régression linéaire](screenshots/regression.png)
+
+### Clustering K-Means
+
+![Clustering K-Means](screenshots/clustering.png)
+
+### Random Forest
+
+![Random Forest](screenshots/random_forest.png)
+
+### Prévision avec ARIMA
+
+![Prévision ARIMA](screenshots/arima.png)
+
+### Réseau de neurones MLP
+
+![Réseau de neurones MLP](screenshots/neural_network.png)
+
+### Validation croisée et comparaison des modèles
+
+![Validation croisée](screenshots/validation.png)
+
 ## Structure
 
 ```text
@@ -63,5 +93,5 @@ ai-machine-learning-desktop-app/
 
 ## Auteur
 
-Douaa Semmar  
-Étudiante en troisième année d'Ingénierie Informatique et Réseaux à l'EMSI.
+Douaa Semmar
+Étudiante en troisième année d'Ingénierie Informatique et Réseaux à l'EMSI
